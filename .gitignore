@@ -11,6 +11,7 @@
 # Generated files
 bin/
 gen/
+out/
 
 # Gradle files
 .gradle/
@@ -30,3 +31,18 @@ proguard/
 
 # Android Studio captures folder
 captures/
+
+# Keystore files
+*.jks
+
+#https://github.com/github/gitignore/blob/master/Android.gitignore
+
+#Recommanded by AndroidStudio
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
