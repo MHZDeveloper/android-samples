@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntentExplicite</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_destination">DestinationActivity</string>
+</resources>
